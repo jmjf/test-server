@@ -1,0 +1,3 @@
+[submodule "site.zzz"]
+	path = site.zzz
+	url = https://github.com/jmjf/test-site
